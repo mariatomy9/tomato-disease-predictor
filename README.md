@@ -2,4 +2,4 @@
 
 A web app that predicts whether a tomato plant is healthy or diseased.
 
-https://camo.githubusercontent.com/9372d94676bc91db5f417f361eacdd1a395ba6d326d7f7fdc25918a059b09547/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72666c6f772d6379616e2e737667
+Download dataset from here
